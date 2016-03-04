@@ -9,6 +9,6 @@ public class Flute implements IInstrument {
         return "brown";
     }
     public String play() {
-        return "fuuuu";
+        return "trilili";
     }
 }
