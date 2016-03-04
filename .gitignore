@@ -20,3 +20,4 @@ hs_err_pid*
 /Lab00App-build/Lab00App-code/target
 /Lab00App-build/Lab00App-code/Lab00App-code.iml
 /Lab00App-build/Lab00App-tests/target/
+.idea/workspace.xml
